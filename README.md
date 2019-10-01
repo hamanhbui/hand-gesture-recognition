@@ -1,2 +1,7 @@
-# continous_gesture_recognition_for_control_smarthome
-Recognizing Hand Gestures for Controlling Home Appliances with Mobile Sensors.
+# Continous Gesture Recognition For Control Smarthome
+Source code implementation for the paper:
+
+Khanh Nguyen Trong, Ha Bui, Cuong Pham. "Recognizing hand gestures for controlling home appliances with mobile sensors." Proceedings of the 11th International Conference on Knowledge and Systems Engineering (KSE 2019), At Danang.
+	
+## The original dataset
+https://github.com/habuimanh/gesture_dataset
